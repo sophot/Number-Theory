@@ -4,6 +4,8 @@
 '''
 	this program solve for all x, y solutions of
 	DIOPHANTINE EQUATION aX + bY = gcd(a, b)
+
+	*change a & b coefficient
 '''
 from gcd import *
 valXY = [1, 1]
