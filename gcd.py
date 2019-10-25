@@ -24,7 +24,7 @@ def gcd(a, b):
 
 
 if __name__ == '__main__':
-	a = 54321
-	b = 9876
+	a = int(input("input 1st number: "))
+	b = int(input("input 2nd number: "))
 	print(gcd(a, b))
 	print("Nothing much")
