@@ -27,3 +27,4 @@ if __name__ == '__main__':
 	a = 54321
 	b = 9876
 	print(gcd(a, b))
+	print("Nothing much")
