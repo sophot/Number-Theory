@@ -13,6 +13,6 @@ def lcm(a, b):
 
 ##### MAIN #####
 if __name__ == "__main__":
-	a = 64
-	b = 71
+	a = int(input("input 1st number"))
+	b = int(input("input 2nd number"))
 	lcm(a,b)
